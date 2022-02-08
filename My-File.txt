@@ -2,5 +2,7 @@ Hello! 123
 
 *Курсив*
 
+**Bold**
+
 qwerqwer
 wertwert
