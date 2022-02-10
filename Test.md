@@ -10,3 +10,11 @@
 
 ***Полужирный Курсив***
 
+## 2. Установка Git
+
+Загружаем последнюю версию Git с [сайта](https://git-scm.com/downloads)
+```
+git help -a
+git commit -am "Insert #2" 
+```
+
