@@ -40,6 +40,10 @@ git checkout -b mergeBranch2
 ```
 git checkout -b <имя_новой_ветки>
 ```
+`git branch create_Branch1`
+`git checkout -b mergeBranch2`
 В результате создаётся новый указатель на текущий commit.
+Список веток в репозитории можно посмотреть с помощью команды: 
+`git branch`
 ## 10. Слияние веток и разрешение конфликтов
 ## 11. Удаление веток
